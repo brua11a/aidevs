@@ -1,2 +1,3 @@
 # aidevs
 aidevs notatki
+schizokula
