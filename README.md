@@ -1,0 +1,2 @@
+# aidevs
+aidevs notatki
