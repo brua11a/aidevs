@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "guwno.md",
+                "file": "Prelekcje/S00E02 - Prompt Engineering.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "guwno"
+              "title": "S00E02 - Prompt Engineering"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "b441506034762579",
@@ -168,8 +168,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2e1fe467ab824197",
+  "active": "1a7cee1a6ef68d22",
   "lastOpenFiles": [
-    "guwno.md"
+    "assets/Pasted image 20250508015742.png",
+    "assets/Pasted image 20250508015012.png",
+    "assets/Pasted image 20250508012359.png",
+    "assets/Pasted image 20250508012201.png",
+    "Prelekcje/S00E01 - Wstęp.md",
+    "Prelekcje/S00E02 - Prompt Engineering.md",
+    "assets/Pasted image 20250508011311.png",
+    "assets/Pasted image 20250508011245.png",
+    "assets",
+    "assets/Pasted image 20250508005827.png",
+    "Prelekcje"
   ]
 }
