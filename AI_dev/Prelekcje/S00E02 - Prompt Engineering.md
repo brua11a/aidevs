@@ -51,3 +51,13 @@ Schematy promptów:
  - **Decomposition**: To technika opierająca się o rozbijanie trudnych zadań na mniejsze kroki, realizowane zwykle przez oddzielne prompty.
 
 ![[Pasted image 20250508015742.png]]
+
+**PromptFoo** -narzędzie do testowania promptów AI. (testy jednostkowe)
+
+```bash
+npm i -g promptfoo
+promptfoo init
+promptfoo init
+```
+
+Podczas budowania aplikacji która ma wykorzystać LLM trzeba mieć na uwadze, że model nie zawsze daje poprawne odpowiedzi i nie możemy być na 100% pewni że nie zrobi czegoś źle ale mamy możliwość zwiększenia prawdopodobieństwa poprawnej odpowiedzi poprzez np. Strukturyzację prompta czy few-shot. 

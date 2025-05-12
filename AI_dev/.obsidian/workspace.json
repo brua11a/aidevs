@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prelekcje/S00E02 - Prompt Engineering.md",
+                "file": "Prelekcje/S00E03 -API.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "S00E02 - Prompt Engineering"
+              "title": "S00E03 -API"
+            }
+          },
+          {
+            "id": "5c038c428d06c8be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prelekcje/S00E04 - Programowanie.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "S00E04 - Programowanie"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,12 +185,14 @@
   },
   "active": "1a7cee1a6ef68d22",
   "lastOpenFiles": [
+    "Prelekcje/S00E03 -API.md",
+    "Prelekcje/S00E04 - Programowanie.md",
+    "Prelekcje/S00E02 - Prompt Engineering.md",
     "assets/Pasted image 20250508015742.png",
     "assets/Pasted image 20250508015012.png",
     "assets/Pasted image 20250508012359.png",
     "assets/Pasted image 20250508012201.png",
     "Prelekcje/S00E01 - Wstęp.md",
-    "Prelekcje/S00E02 - Prompt Engineering.md",
     "assets/Pasted image 20250508011311.png",
     "assets/Pasted image 20250508011245.png",
     "assets",
