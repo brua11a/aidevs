@@ -1,0 +1,1 @@
+Lekcja głównie o odpalaniu LLMów lokalnie
